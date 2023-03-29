@@ -1,0 +1,14 @@
+{
+  "name": "ae",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hashlips-lab/art-engine": "^2.0.0-alpha4"
+  }
+}
